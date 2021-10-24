@@ -1,0 +1,48 @@
+
+Ezoicreport this ad
+Python Programs
+
+Python Flow Control
+➤ Even Number in Python
+➤ Odd Number in Python
+➤ Even Odd Program
+➤ Largest of 3 Numbers
+➤ Leap Year Program
+➤ Multiplication Table
+➤ Factors of a Number
+➤ Prime Factors in Python
+➤ Factorial of a Number
+➤ Factorial using Function
+➤ Math.factorial() in Python
+➤ Factorial using Recursion
+➤ LCM of Two Numbers
+➤ HCF/GCD of 2 Numbers
+➤ Solve Quadratic Equation
+➤ Sum of Digits of a Number
+➤ Sum of N Natural Numbers
+➤ Fibonacci Series in Python
+➤ Fibonacci Series – Recursion
+➤ Simple Calculator in Python
+➤ Perfect Square in Python
+➤ Absolute Value in Python
+
+Conversion Programs
+➤ Celsius to Fahrenheit
+➤ Fahrenheit to Celsius
+➤ Decimal to Binary
+➤ Binary to Decimal
+➤ Decimal to Octal
+➤ Octal to Decimal
+➤ Decimal to Hexadecimal
+➤ Hexadecimal to Decimal
+
+Array Programs
+➤ Linear Search in Python
+➤ Binary Search in Python
+Python program to find the largest among 3 numbers. We will discuss different methods to find the largest of 3 numbers. We will give three numbers num1, num2, and num3. Python program will find the greatest of three numbers using various methods.
+
+How to find largest of three numbers.
+
+If num1 >= num2 and num3 then num1 is largest number.
+else if num2 >= num1 and num3 then num2 is largest number.
+else num3 will be >= num1 and num2 and therefore num3 is largest number.
